@@ -1,0 +1,4601 @@
+[
+  {
+    "id": 674029,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04119961,
+    "latitude": 51.52400505
+  },
+  {
+    "id": 804402,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus unk species",
+    "common_name": "Cherry",
+    "longitude": 0.04500527,
+    "latitude": 51.52401761
+  },
+  {
+    "id": 674030,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04096954,
+    "latitude": 51.52401805
+  },
+  {
+    "id": 671332,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.03988841,
+    "latitude": 51.52401889
+  },
+  {
+    "id": 806784,
+    "borough": "Newham",
+    "tree_name": "Other",
+    "taxon_name": "Magnolia grandiflora",
+    "common_name": "Magnolia",
+    "longitude": 0.04033613,
+    "latitude": 51.52402069
+  },
+  {
+    "id": 674041,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04171938,
+    "latitude": 51.52402298
+  },
+  {
+    "id": 674040,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04147531,
+    "latitude": 51.52404521
+  },
+  {
+    "id": 804396,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus unk species",
+    "common_name": "Cherry",
+    "longitude": 0.04612123,
+    "latitude": 51.5240539
+  },
+  {
+    "id": 674031,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04076949,
+    "latitude": 51.52405751
+  },
+  {
+    "id": 674032,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04055382,
+    "latitude": 51.52407026
+  },
+  {
+    "id": 674039,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04120323,
+    "latitude": 51.52408592
+  },
+  {
+    "id": 804395,
+    "borough": "Newham",
+    "tree_name": "Hawthorn",
+    "taxon_name": "Crataegus unk species",
+    "common_name": "Hawthorn",
+    "longitude": 0.04608003,
+    "latitude": 51.52409958
+  },
+  {
+    "id": 674044,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04105999,
+    "latitude": 51.52410641
+  },
+  {
+    "id": 674038,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04093075,
+    "latitude": 51.52411765
+  },
+  {
+    "id": 806783,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04030062,
+    "latitude": 51.52412922
+  },
+  {
+    "id": 671335,
+    "borough": "Newham",
+    "tree_name": "Birch",
+    "taxon_name": "Betula utilis",
+    "common_name": "A flowering plant",
+    "longitude": 0.03954792,
+    "latitude": 51.52414172
+  },
+  {
+    "id": 675809,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.0445647,
+    "latitude": 51.52414424
+  },
+  {
+    "id": 674037,
+    "borough": "Newham",
+    "tree_name": "Whitebeam",
+    "taxon_name": "Sorbus aria",
+    "common_name": "Common whitebeam",
+    "longitude": 0.04070148,
+    "latitude": 51.52414862
+  },
+  {
+    "id": 674033,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04022613,
+    "latitude": 51.5241569
+  },
+  {
+    "id": 804394,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus unk species",
+    "common_name": "Cherry",
+    "longitude": 0.04605405,
+    "latitude": 51.52416299
+  },
+  {
+    "id": 671334,
+    "borough": "Newham",
+    "tree_name": "Birch",
+    "taxon_name": "Betula utilis",
+    "common_name": "A flowering plant",
+    "longitude": 0.03956353,
+    "latitude": 51.52416843
+  },
+  {
+    "id": 674036,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04048622,
+    "latitude": 51.52417035
+  },
+  {
+    "id": 674739,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.0426349,
+    "latitude": 51.52418688
+  },
+  {
+    "id": 677255,
+    "borough": "Newham",
+    "tree_name": "Apple",
+    "taxon_name": "Malus",
+    "common_name": "Apple",
+    "longitude": 0.03989604,
+    "latitude": 51.52418962
+  },
+  {
+    "id": 675808,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.0448264,
+    "latitude": 51.52419363
+  },
+  {
+    "id": 674035,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04027136,
+    "latitude": 51.52420107
+  },
+  {
+    "id": 675810,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04416379,
+    "latitude": 51.52420519
+  },
+  {
+    "id": 671333,
+    "borough": "Newham",
+    "tree_name": "Birch",
+    "taxon_name": "Betula utilis",
+    "common_name": "A flowering plant",
+    "longitude": 0.03950751,
+    "latitude": 51.52420537
+  },
+  {
+    "id": 672174,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04511529,
+    "latitude": 51.52420657
+  },
+  {
+    "id": 677256,
+    "borough": "Newham",
+    "tree_name": "Whitebeam",
+    "taxon_name": "Sorbus intermedia",
+    "common_name": "Swedish whitebeam",
+    "longitude": 0.03985362,
+    "latitude": 51.52420834
+  },
+  {
+    "id": 682107,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04278056,
+    "latitude": 51.52422031
+  },
+  {
+    "id": 674034,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus",
+    "common_name": "Flowering cherry",
+    "longitude": 0.04004169,
+    "latitude": 51.52422306
+  },
+  {
+    "id": 675811,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04373367,
+    "latitude": 51.52425765
+  },
+  {
+    "id": 677257,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.03984163,
+    "latitude": 51.52426251
+  },
+  {
+    "id": 675807,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04406658,
+    "latitude": 51.52428782
+  },
+  {
+    "id": 672175,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04514974,
+    "latitude": 51.52433187
+  },
+  {
+    "id": 675806,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04375169,
+    "latitude": 51.52433827
+  },
+  {
+    "id": 804397,
+    "borough": "Newham",
+    "tree_name": "Birch",
+    "taxon_name": "Betula pendula",
+    "common_name": "Birch",
+    "longitude": 0.04531266,
+    "latitude": 51.52434678
+  },
+  {
+    "id": 675812,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04301706,
+    "latitude": 51.52435108
+  },
+  {
+    "id": 812160,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.03915784,
+    "latitude": 51.52436402
+  },
+  {
+    "id": 675813,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04267296,
+    "latitude": 51.52439305
+  },
+  {
+    "id": 675805,
+    "borough": "Newham",
+    "tree_name": "Sycamore",
+    "taxon_name": "Acer pseudoplatanus",
+    "common_name": "Sycamore",
+    "longitude": 0.04335078,
+    "latitude": 51.52439922
+  },
+  {
+    "id": 675804,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04296346,
+    "latitude": 51.52444195
+  },
+  {
+    "id": 672176,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04519818,
+    "latitude": 51.52444793
+  },
+  {
+    "id": 804398,
+    "borough": "Newham",
+    "tree_name": "Lime",
+    "taxon_name": "Tilia",
+    "common_name": "Lime",
+    "longitude": 0.0453463,
+    "latitude": 51.5244541
+  },
+  {
+    "id": 812161,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.03906142,
+    "latitude": 51.52446461
+  },
+  {
+    "id": 675803,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04264817,
+    "latitude": 51.52448341
+  },
+  {
+    "id": 675814,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.0417987,
+    "latitude": 51.52450721
+  },
+  {
+    "id": 682106,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04290987,
+    "latitude": 51.52453281
+  },
+  {
+    "id": 675802,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04224685,
+    "latitude": 51.52453537
+  },
+  {
+    "id": 675815,
+    "borough": "Newham",
+    "tree_name": "Sycamore",
+    "taxon_name": "Acer pseudoplatanus",
+    "common_name": "Sycamore",
+    "longitude": 0.04158384,
+    "latitude": 51.52453793
+  },
+  {
+    "id": 804399,
+    "borough": "Newham",
+    "tree_name": "Pear",
+    "taxon_name": "Pyrus communis",
+    "common_name": "Pear",
+    "longitude": 0.04537954,
+    "latitude": 51.52455244
+  },
+  {
+    "id": 672177,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04523182,
+    "latitude": 51.52455526
+  },
+  {
+    "id": 675816,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04138298,
+    "latitude": 51.52455941
+  },
+  {
+    "id": 674740,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04276743,
+    "latitude": 51.52457126
+  },
+  {
+    "id": 666150,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.03907703,
+    "latitude": 51.52457258
+  },
+  {
+    "id": 675820,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04183113,
+    "latitude": 51.52458758
+  },
+  {
+    "id": 675817,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04095325,
+    "latitude": 51.52462086
+  },
+  {
+    "id": 675801,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04154504,
+    "latitude": 51.52463753
+  },
+  {
+    "id": 804400,
+    "borough": "Newham",
+    "tree_name": "Poplar",
+    "taxon_name": "Populus nigra italica",
+    "common_name": "Lombardy poplar",
+    "longitude": 0.04539797,
+    "latitude": 51.52464205
+  },
+  {
+    "id": 675800,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.0414158,
+    "latitude": 51.52464877
+  },
+  {
+    "id": 666148,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.03908064,
+    "latitude": 51.52465345
+  },
+  {
+    "id": 675818,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04049471,
+    "latitude": 51.5246828
+  },
+  {
+    "id": 675799,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04114372,
+    "latitude": 51.52468948
+  },
+  {
+    "id": 684369,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus",
+    "common_name": "Flowering cherry",
+    "longitude": 0.04516584,
+    "latitude": 51.5246913
+  },
+  {
+    "id": 675798,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04095686,
+    "latitude": 51.52470173
+  },
+  {
+    "id": 804308,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus kanzan",
+    "common_name": "Cherry",
+    "longitude": 0.04790067,
+    "latitude": 51.52470809
+  },
+  {
+    "id": 684370,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04476331,
+    "latitude": 51.52471631
+  },
+  {
+    "id": 804325,
+    "borough": "Newham",
+    "tree_name": "Hawthorn",
+    "taxon_name": "Crataegus prunifolia",
+    "common_name": "Hawthorn",
+    "longitude": 0.04664977,
+    "latitude": 51.52471734
+  },
+  {
+    "id": 672094,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer",
+    "common_name": "Maple",
+    "longitude": 0.03927111,
+    "latitude": 51.52472208
+  },
+  {
+    "id": 672093,
+    "borough": "Newham",
+    "tree_name": "Pear",
+    "taxon_name": "Pyrus",
+    "common_name": "Pyrus species",
+    "longitude": 0.03925671,
+    "latitude": 51.52472233
+  },
+  {
+    "id": 675819,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04003577,
+    "latitude": 51.52473575
+  },
+  {
+    "id": 804326,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04669291,
+    "latitude": 51.52474716
+  },
+  {
+    "id": 678247,
+    "borough": "Newham",
+    "tree_name": "Hornbeam",
+    "taxon_name": "Carpinus betulus",
+    "common_name": "Hornbeam",
+    "longitude": 0.04506782,
+    "latitude": 51.52475596
+  },
+  {
+    "id": 684371,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04441921,
+    "latitude": 51.52475829
+  },
+  {
+    "id": 675797,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04055594,
+    "latitude": 51.52476267
+  },
+  {
+    "id": 678246,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04482415,
+    "latitude": 51.52478719
+  },
+  {
+    "id": 672178,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04531472,
+    "latitude": 51.52479662
+  },
+  {
+    "id": 675137,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04013981,
+    "latitude": 51.52480588
+  },
+  {
+    "id": 804324,
+    "borough": "Newham",
+    "tree_name": "Birch",
+    "taxon_name": "Betula utilis jacquemontii",
+    "common_name": "Birch",
+    "longitude": 0.0470156,
+    "latitude": 51.52480627
+  },
+  {
+    "id": 684372,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04397468,
+    "latitude": 51.524811
+  },
+  {
+    "id": 804319,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer pseudoplatanus",
+    "common_name": "Sycamore",
+    "longitude": 0.04706774,
+    "latitude": 51.52481166
+  },
+  {
+    "id": 684373,
+    "borough": "Newham",
+    "tree_name": "Horse chestnut",
+    "taxon_name": "Aesculus hippocastanum",
+    "common_name": "Horse chestnut",
+    "longitude": 0.04380303,
+    "latitude": 51.52484098
+  },
+  {
+    "id": 804318,
+    "borough": "Newham",
+    "tree_name": "Alder",
+    "taxon_name": "Alnus cordata",
+    "common_name": "Italian alder",
+    "longitude": 0.04724213,
+    "latitude": 51.52484279
+  },
+  {
+    "id": 674741,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus",
+    "common_name": "Flowering cherry",
+    "longitude": 0.04286632,
+    "latitude": 51.52484832
+  },
+  {
+    "id": 804314,
+    "borough": "Newham",
+    "tree_name": "Alder",
+    "taxon_name": "Alnus cordata",
+    "common_name": "Italian alder",
+    "longitude": 0.04737402,
+    "latitude": 51.52485847
+  },
+  {
+    "id": 684374,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04357376,
+    "latitude": 51.52487195
+  },
+  {
+    "id": 804393,
+    "borough": "Newham",
+    "tree_name": "Birch",
+    "taxon_name": "Betula pendula",
+    "common_name": "Birch",
+    "longitude": 0.0466585,
+    "latitude": 51.52487995
+  },
+  {
+    "id": 804313,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04757174,
+    "latitude": 51.52489549
+  },
+  {
+    "id": 678245,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04399311,
+    "latitude": 51.52490061
+  },
+  {
+    "id": 671998,
+    "borough": "Newham",
+    "tree_name": "Apple",
+    "taxon_name": "Malus",
+    "common_name": "Apple",
+    "longitude": 0.04439684,
+    "latitude": 51.52490256
+  },
+  {
+    "id": 672179,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04536316,
+    "latitude": 51.52491268
+  },
+  {
+    "id": 804307,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer platanoides",
+    "common_name": "Maple",
+    "longitude": 0.04742326,
+    "latitude": 51.52492775
+  },
+  {
+    "id": 804401,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus unk species",
+    "common_name": "Cherry",
+    "longitude": 0.04610309,
+    "latitude": 51.5249355
+  },
+  {
+    "id": 678244,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04359138,
+    "latitude": 51.52494359
+  },
+  {
+    "id": 804110,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus unk species",
+    "common_name": "Cherry",
+    "longitude": 0.0392632,
+    "latitude": 51.52494761
+  },
+  {
+    "id": 804273,
+    "borough": "Newham",
+    "tree_name": "Cypress",
+    "taxon_name": "Chamaecyparis lawsoniana",
+    "common_name": "Cypress",
+    "longitude": 0.04792756,
+    "latitude": 51.52495402
+  },
+  {
+    "id": 804272,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus avium",
+    "common_name": "Cherry",
+    "longitude": 0.04784778,
+    "latitude": 51.5249752
+  },
+  {
+    "id": 684088,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer campestre",
+    "common_name": "Field maple",
+    "longitude": 0.04585695,
+    "latitude": 51.52499399
+  },
+  {
+    "id": 682925,
+    "borough": "Newham",
+    "tree_name": "Apple",
+    "taxon_name": "Malus",
+    "common_name": "Apple",
+    "longitude": 0.04584255,
+    "latitude": 51.52499424
+  },
+  {
+    "id": 804291,
+    "borough": "Newham",
+    "tree_name": "Birch",
+    "taxon_name": "Betula pubescens",
+    "common_name": "Birch",
+    "longitude": 0.04799316,
+    "latitude": 51.52500234
+  },
+  {
+    "id": 804271,
+    "borough": "Newham",
+    "tree_name": "Birch",
+    "taxon_name": "Betula pendula",
+    "common_name": "Birch",
+    "longitude": 0.04788128,
+    "latitude": 51.52501508
+  },
+  {
+    "id": 804283,
+    "borough": "Newham",
+    "tree_name": "Apple",
+    "taxon_name": "Malus unk species",
+    "common_name": "Flowering crab",
+    "longitude": 0.04740872,
+    "latitude": 51.52502153
+  },
+  {
+    "id": 680055,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04557006,
+    "latitude": 51.52502598
+  },
+  {
+    "id": 684375,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04242741,
+    "latitude": 51.52502683
+  },
+  {
+    "id": 804290,
+    "borough": "Newham",
+    "tree_name": "Birch",
+    "taxon_name": "Betula pubescens",
+    "common_name": "Birch",
+    "longitude": 0.04798164,
+    "latitude": 51.52503491
+  },
+  {
+    "id": 677254,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.03945842,
+    "latitude": 51.52504256
+  },
+  {
+    "id": 804270,
+    "borough": "Newham",
+    "tree_name": "Hawthorn",
+    "taxon_name": "Crataegus prunifolia",
+    "common_name": "Hawthorn",
+    "longitude": 0.04776729,
+    "latitude": 51.52504495
+  },
+  {
+    "id": 672095,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus",
+    "common_name": "Flowering cherry",
+    "longitude": 0.03931437,
+    "latitude": 51.52504507
+  },
+  {
+    "id": 678243,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04287517,
+    "latitude": 51.525046
+  },
+  {
+    "id": 684376,
+    "borough": "Newham",
+    "tree_name": "Hornbeam",
+    "taxon_name": "Carpinus betulus",
+    "common_name": "Hornbeam",
+    "longitude": 0.04218334,
+    "latitude": 51.52504907
+  },
+  {
+    "id": 671997,
+    "borough": "Newham",
+    "tree_name": "Rowan",
+    "taxon_name": "Sorbus aucuparia",
+    "common_name": "Rowan",
+    "longitude": 0.0444469,
+    "latitude": 51.52505457
+  },
+  {
+    "id": 804285,
+    "borough": "Newham",
+    "tree_name": "Willow",
+    "taxon_name": "Salix caprea",
+    "common_name": "Goat willow",
+    "longitude": 0.04737564,
+    "latitude": 51.52505538
+  },
+  {
+    "id": 672180,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04539842,
+    "latitude": 51.52505595
+  },
+  {
+    "id": 682924,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer campestre",
+    "common_name": "Field maple",
+    "longitude": 0.04629231,
+    "latitude": 51.52505833
+  },
+  {
+    "id": 684087,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer campestre",
+    "common_name": "Field maple",
+    "longitude": 0.04629272,
+    "latitude": 51.52506732
+  },
+  {
+    "id": 678224,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04199728,
+    "latitude": 51.52507929
+  },
+  {
+    "id": 678242,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04244463,
+    "latitude": 51.52508948
+  },
+  {
+    "id": 678225,
+    "borough": "Newham",
+    "tree_name": "Horse chestnut",
+    "taxon_name": "Aesculus hippocastanum",
+    "common_name": "Horse chestnut",
+    "longitude": 0.04178161,
+    "latitude": 51.52509204
+  },
+  {
+    "id": 804289,
+    "borough": "Newham",
+    "tree_name": "Other",
+    "taxon_name": "Ilex aquifolium",
+    "common_name": "Holly",
+    "longitude": 0.04795706,
+    "latitude": 51.52509739
+  },
+  {
+    "id": 804269,
+    "borough": "Newham",
+    "tree_name": "Other",
+    "taxon_name": "Cedrus atlantica glauca",
+    "common_name": "Cedar",
+    "longitude": 0.04761154,
+    "latitude": 51.52510792
+  },
+  {
+    "id": 804288,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus kanzan",
+    "common_name": "Cherry",
+    "longitude": 0.04783706,
+    "latitude": 51.52512197
+  },
+  {
+    "id": 678226,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04159596,
+    "latitude": 51.52513125
+  },
+  {
+    "id": 804268,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus kanzan",
+    "common_name": "Cherry",
+    "longitude": 0.04741372,
+    "latitude": 51.52513295
+  },
+  {
+    "id": 681201,
+    "borough": "Newham",
+    "tree_name": "Pear",
+    "taxon_name": "Pyrus",
+    "common_name": "Pyrus species",
+    "longitude": 0.04447933,
+    "latitude": 51.52513494
+  },
+  {
+    "id": 671996,
+    "borough": "Newham",
+    "tree_name": "Rowan",
+    "taxon_name": "Sorbus aucuparia",
+    "common_name": "Rowan",
+    "longitude": 0.04447973,
+    "latitude": 51.52514392
+  },
+  {
+    "id": 804286,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus kanzan",
+    "common_name": "Cherry",
+    "longitude": 0.04760311,
+    "latitude": 51.52514494
+  },
+  {
+    "id": 678227,
+    "borough": "Newham",
+    "tree_name": "Apple",
+    "taxon_name": "Malus",
+    "common_name": "Apple",
+    "longitude": 0.04135188,
+    "latitude": 51.52515348
+  },
+  {
+    "id": 682926,
+    "borough": "Newham",
+    "tree_name": "Apple",
+    "taxon_name": "Malus",
+    "common_name": "Apple",
+    "longitude": 0.04687334,
+    "latitude": 51.5251561
+  },
+  {
+    "id": 678241,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04191447,
+    "latitude": 51.52516167
+  },
+  {
+    "id": 684086,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer campestre",
+    "common_name": "Field maple",
+    "longitude": 0.04690255,
+    "latitude": 51.52516458
+  },
+  {
+    "id": 677252,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer platanoides",
+    "common_name": "Norway maple",
+    "longitude": 0.03949285,
+    "latitude": 51.52516786
+  },
+  {
+    "id": 672096,
+    "borough": "Newham",
+    "tree_name": "Hawthorn",
+    "taxon_name": "Crataegus monogyna",
+    "common_name": "Hawthorn",
+    "longitude": 0.0393344,
+    "latitude": 51.52517062
+  },
+  {
+    "id": 676708,
+    "borough": "Newham",
+    "tree_name": "Whitebeam",
+    "taxon_name": "Sorbus aucuparia x aria = s. x thuringiaca",
+    "common_name": "Whitebeam",
+    "longitude": 0.03931999,
+    "latitude": 51.52517087
+  },
+  {
+    "id": 671977,
+    "borough": "Newham",
+    "tree_name": "Apple",
+    "taxon_name": "Malus",
+    "common_name": "Apple",
+    "longitude": 0.0443661,
+    "latitude": 51.52518188
+  },
+  {
+    "id": 674743,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer campestre",
+    "common_name": "Field maple",
+    "longitude": 0.04298244,
+    "latitude": 51.52518802
+  },
+  {
+    "id": 804287,
+    "borough": "Newham",
+    "tree_name": "Apple",
+    "taxon_name": "Malus x purpurea",
+    "common_name": "Flowering crab",
+    "longitude": 0.04779247,
+    "latitude": 51.52518839
+  },
+  {
+    "id": 671978,
+    "borough": "Newham",
+    "tree_name": "Birch",
+    "taxon_name": "Betula utilis",
+    "common_name": "A flowering plant",
+    "longitude": 0.0443665,
+    "latitude": 51.52519086
+  },
+  {
+    "id": 678228,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04112301,
+    "latitude": 51.52519344
+  },
+  {
+    "id": 682927,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer campestre",
+    "common_name": "Field maple",
+    "longitude": 0.04717785,
+    "latitude": 51.52519574
+  },
+  {
+    "id": 684085,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer campestre",
+    "common_name": "Field maple",
+    "longitude": 0.04713464,
+    "latitude": 51.5251965
+  },
+  {
+    "id": 674742,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04295403,
+    "latitude": 51.52519751
+  },
+  {
+    "id": 678531,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04219057,
+    "latitude": 51.52521081
+  },
+  {
+    "id": 676203,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus",
+    "common_name": "Flowering cherry",
+    "longitude": 0.0473083,
+    "latitude": 51.52521145
+  },
+  {
+    "id": 678497,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04207533,
+    "latitude": 51.52521282
+  },
+  {
+    "id": 678240,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04149874,
+    "latitude": 51.52521387
+  },
+  {
+    "id": 678229,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus",
+    "common_name": "Flowering cherry",
+    "longitude": 0.04089333,
+    "latitude": 51.52521543
+  },
+  {
+    "id": 669473,
+    "borough": "Newham",
+    "tree_name": "Horse chestnut",
+    "taxon_name": "Aesculus hippocastanum",
+    "common_name": "Horse chestnut",
+    "longitude": 0.04650244,
+    "latitude": 51.52524351
+  },
+  {
+    "id": 678230,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04072168,
+    "latitude": 51.52524539
+  },
+  {
+    "id": 678231,
+    "borough": "Newham",
+    "tree_name": "Hornbeam",
+    "taxon_name": "Carpinus betulus",
+    "common_name": "Hornbeam",
+    "longitude": 0.04054882,
+    "latitude": 51.5252484
+  },
+  {
+    "id": 682105,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.0431293,
+    "latitude": 51.52524841
+  },
+  {
+    "id": 672181,
+    "borough": "Newham",
+    "tree_name": "Hornbeam",
+    "taxon_name": "Carpinus betulus",
+    "common_name": "Hornbeam",
+    "longitude": 0.04537846,
+    "latitude": 51.52525414
+  },
+  {
+    "id": 678239,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04112662,
+    "latitude": 51.52527431
+  },
+  {
+    "id": 680054,
+    "borough": "Newham",
+    "tree_name": "Rowan",
+    "taxon_name": "Sorbus aucuparia",
+    "common_name": "Rowan",
+    "longitude": 0.04549491,
+    "latitude": 51.52527909
+  },
+  {
+    "id": 678238,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04095417,
+    "latitude": 51.52528631
+  },
+  {
+    "id": 676204,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04775888,
+    "latitude": 51.52529351
+  },
+  {
+    "id": 671979,
+    "borough": "Newham",
+    "tree_name": "Apple",
+    "taxon_name": "Malus",
+    "common_name": "Apple",
+    "longitude": 0.04435693,
+    "latitude": 51.52529894
+  },
+  {
+    "id": 672054,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04732674,
+    "latitude": 51.52530106
+  },
+  {
+    "id": 680291,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04131549,
+    "latitude": 51.52530699
+  },
+  {
+    "id": 678232,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04027754,
+    "latitude": 51.52530708
+  },
+  {
+    "id": 680290,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04121466,
+    "latitude": 51.52530875
+  },
+  {
+    "id": 671995,
+    "borough": "Newham",
+    "tree_name": "Sycamore",
+    "taxon_name": "Acer pseudoplatanus",
+    "common_name": "Sycamore",
+    "longitude": 0.04448778,
+    "latitude": 51.52532364
+  },
+  {
+    "id": 678233,
+    "borough": "Newham",
+    "tree_name": "Rowan",
+    "taxon_name": "Sorbus aucuparia",
+    "common_name": "Rowan",
+    "longitude": 0.04004787,
+    "latitude": 51.52532907
+  },
+  {
+    "id": 677253,
+    "borough": "Newham",
+    "tree_name": "Sycamore",
+    "taxon_name": "Acer pseudoplatanus",
+    "common_name": "Sycamore",
+    "longitude": 0.03951448,
+    "latitude": 51.52532936
+  },
+  {
+    "id": 678237,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer platanoides",
+    "common_name": "Norway maple",
+    "longitude": 0.04059605,
+    "latitude": 51.52533751
+  },
+  {
+    "id": 672097,
+    "borough": "Newham",
+    "tree_name": "Sycamore",
+    "taxon_name": "Acer pseudoplatanus",
+    "common_name": "Sycamore",
+    "longitude": 0.03935643,
+    "latitude": 51.5253411
+  },
+  {
+    "id": 678234,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.0398474,
+    "latitude": 51.52535954
+  },
+  {
+    "id": 678235,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer campestre",
+    "common_name": "Field maple",
+    "longitude": 0.03997986,
+    "latitude": 51.52542018
+  },
+  {
+    "id": 678236,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer campestre",
+    "common_name": "Field maple",
+    "longitude": 0.03997986,
+    "latitude": 51.52542018
+  },
+  {
+    "id": 680264,
+    "borough": "Newham",
+    "tree_name": "Pear",
+    "taxon_name": "Pyrus",
+    "common_name": "Pyrus species",
+    "longitude": 0.04137874,
+    "latitude": 51.52543179
+  },
+  {
+    "id": 678530,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04225824,
+    "latitude": 51.52543446
+  },
+  {
+    "id": 669472,
+    "borough": "Newham",
+    "tree_name": "Horse chestnut",
+    "taxon_name": "Aesculus hippocastanum",
+    "common_name": "Horse chestnut",
+    "longitude": 0.04638126,
+    "latitude": 51.52543448
+  },
+  {
+    "id": 678498,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04211459,
+    "latitude": 51.52544595
+  },
+  {
+    "id": 671980,
+    "borough": "Newham",
+    "tree_name": "Apple",
+    "taxon_name": "Malus",
+    "common_name": "Apple",
+    "longitude": 0.04430695,
+    "latitude": 51.52547068
+  },
+  {
+    "id": 804403,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer platanoides",
+    "common_name": "Maple",
+    "longitude": 0.04525664,
+    "latitude": 51.52547724
+  },
+  {
+    "id": 680053,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04541855,
+    "latitude": 51.52550524
+  },
+  {
+    "id": 680017,
+    "borough": "Newham",
+    "tree_name": "Sycamore",
+    "taxon_name": "Acer pseudoplatanus",
+    "common_name": "Sycamore",
+    "longitude": 0.04050285,
+    "latitude": 51.52551
+  },
+  {
+    "id": 672098,
+    "borough": "Newham",
+    "tree_name": "Sycamore",
+    "taxon_name": "Acer pseudoplatanus",
+    "common_name": "Sycamore",
+    "longitude": 0.03934965,
+    "latitude": 51.52551208
+  },
+  {
+    "id": 679996,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer platanoides",
+    "common_name": "Norway maple",
+    "longitude": 0.04038882,
+    "latitude": 51.52553896
+  },
+  {
+    "id": 678529,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04230628,
+    "latitude": 51.52554153
+  },
+  {
+    "id": 680263,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04126832,
+    "latitude": 51.52554163
+  },
+  {
+    "id": 682104,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.043229,
+    "latitude": 51.52554343
+  },
+  {
+    "id": 672055,
+    "borough": "Newham",
+    "tree_name": "Horse chestnut",
+    "taxon_name": "Aesculus hippocastanum",
+    "common_name": "Horse chestnut",
+    "longitude": 0.04723719,
+    "latitude": 51.52555442
+  },
+  {
+    "id": 672053,
+    "borough": "Newham",
+    "tree_name": "Rowan",
+    "taxon_name": "Sorbus aucuparia",
+    "common_name": "Rowan",
+    "longitude": 0.04736723,
+    "latitude": 51.52556114
+  },
+  {
+    "id": 678499,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04219185,
+    "latitude": 51.52556151
+  },
+  {
+    "id": 671981,
+    "borough": "Newham",
+    "tree_name": "Rowan",
+    "taxon_name": "Sorbus aucuparia",
+    "common_name": "Rowan",
+    "longitude": 0.04425457,
+    "latitude": 51.5255885
+  },
+  {
+    "id": 677251,
+    "borough": "Newham",
+    "tree_name": "Sycamore",
+    "taxon_name": "Acer pseudoplatanus",
+    "common_name": "Sycamore",
+    "longitude": 0.03948291,
+    "latitude": 51.5255907
+  },
+  {
+    "id": 680016,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04053809,
+    "latitude": 51.52565327
+  },
+  {
+    "id": 671994,
+    "borough": "Newham",
+    "tree_name": "Rowan",
+    "taxon_name": "Sorbus aucuparia",
+    "common_name": "Rowan",
+    "longitude": 0.04435902,
+    "latitude": 51.52566761
+  },
+  {
+    "id": 673722,
+    "borough": "Newham",
+    "tree_name": "Pear",
+    "taxon_name": "Pyrus",
+    "common_name": "Pyrus species",
+    "longitude": 0.04620446,
+    "latitude": 51.52567138
+  },
+  {
+    "id": 672099,
+    "borough": "Newham",
+    "tree_name": "Sycamore",
+    "taxon_name": "Acer pseudoplatanus",
+    "common_name": "Sycamore",
+    "longitude": 0.03931406,
+    "latitude": 51.52568357
+  },
+  {
+    "id": 680265,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04133237,
+    "latitude": 51.5256844
+  },
+  {
+    "id": 678528,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04234152,
+    "latitude": 51.5256848
+  },
+  {
+    "id": 680289,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04147682,
+    "latitude": 51.52569088
+  },
+  {
+    "id": 804100,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus unk species",
+    "common_name": "Cherry",
+    "longitude": 0.0472845,
+    "latitude": 51.52569096
+  },
+  {
+    "id": 672058,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus",
+    "common_name": "Flowering cherry",
+    "longitude": 0.04717282,
+    "latitude": 51.52572641
+  },
+  {
+    "id": 681197,
+    "borough": "Newham",
+    "tree_name": "Whitebeam",
+    "taxon_name": "Sorbus aria",
+    "common_name": "Common whitebeam",
+    "longitude": 0.04714401,
+    "latitude": 51.52572691
+  },
+  {
+    "id": 672182,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04518493,
+    "latitude": 51.52576111
+  },
+  {
+    "id": 680052,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04530058,
+    "latitude": 51.52576809
+  },
+  {
+    "id": 671982,
+    "borough": "Newham",
+    "tree_name": "Birch",
+    "taxon_name": "Betula utilis",
+    "common_name": "A flowering plant",
+    "longitude": 0.04419059,
+    "latitude": 51.52576947
+  },
+  {
+    "id": 678527,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04235995,
+    "latitude": 51.52577441
+  },
+  {
+    "id": 679997,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04038566,
+    "latitude": 51.52579081
+  },
+  {
+    "id": 682103,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04331229,
+    "latitude": 51.52579378
+  },
+  {
+    "id": 680266,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04126597,
+    "latitude": 51.52581146
+  },
+  {
+    "id": 672100,
+    "borough": "Newham",
+    "tree_name": "Sycamore",
+    "taxon_name": "Acer pseudoplatanus",
+    "common_name": "Sycamore",
+    "longitude": 0.03927727,
+    "latitude": 51.52582809
+  },
+  {
+    "id": 678500,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.0422039,
+    "latitude": 51.52583109
+  },
+  {
+    "id": 669471,
+    "borough": "Newham",
+    "tree_name": "Horse chestnut",
+    "taxon_name": "Aesculus hippocastanum",
+    "common_name": "Horse chestnut",
+    "longitude": 0.04629814,
+    "latitude": 51.52583161
+  },
+  {
+    "id": 680288,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04141163,
+    "latitude": 51.52584489
+  },
+  {
+    "id": 671993,
+    "borough": "Newham",
+    "tree_name": "Apple",
+    "taxon_name": "Malus",
+    "common_name": "Apple",
+    "longitude": 0.04428104,
+    "latitude": 51.52585782
+  },
+  {
+    "id": 680015,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04049131,
+    "latitude": 51.52589689
+  },
+  {
+    "id": 672059,
+    "borough": "Newham",
+    "tree_name": "Other",
+    "taxon_name": "Ginkgo biloba",
+    "common_name": "Maidenhair tree",
+    "longitude": 0.04709404,
+    "latitude": 51.52589865
+  },
+  {
+    "id": 678526,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04229435,
+    "latitude": 51.52591944
+  },
+  {
+    "id": 677250,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.03939733,
+    "latitude": 51.52593392
+  },
+  {
+    "id": 672052,
+    "borough": "Newham",
+    "tree_name": "Other",
+    "taxon_name": "Ginkgo biloba",
+    "common_name": "Maidenhair tree",
+    "longitude": 0.0472113,
+    "latitude": 51.52594156
+  },
+  {
+    "id": 671991,
+    "borough": "Newham",
+    "tree_name": "Rowan",
+    "taxon_name": "Sorbus aucuparia",
+    "common_name": "Rowan",
+    "longitude": 0.04424185,
+    "latitude": 51.52594843
+  },
+  {
+    "id": 681202,
+    "borough": "Newham",
+    "tree_name": "Pear",
+    "taxon_name": "Pyrus",
+    "common_name": "Pyrus species",
+    "longitude": 0.0440978,
+    "latitude": 51.52595094
+  },
+  {
+    "id": 671992,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus",
+    "common_name": "Flowering cherry",
+    "longitude": 0.04424225,
+    "latitude": 51.52595742
+  },
+  {
+    "id": 671983,
+    "borough": "Newham",
+    "tree_name": "Rowan",
+    "taxon_name": "Sorbus aucuparia",
+    "common_name": "Rowan",
+    "longitude": 0.04411261,
+    "latitude": 51.52595968
+  },
+  {
+    "id": 680287,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04137364,
+    "latitude": 51.52596246
+  },
+  {
+    "id": 680267,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04122958,
+    "latitude": 51.52596497
+  },
+  {
+    "id": 672101,
+    "borough": "Newham",
+    "tree_name": "Sycamore",
+    "taxon_name": "Acer pseudoplatanus",
+    "common_name": "Sycamore",
+    "longitude": 0.03922648,
+    "latitude": 51.52598185
+  },
+  {
+    "id": 678525,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04228276,
+    "latitude": 51.52598259
+  },
+  {
+    "id": 678501,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04213911,
+    "latitude": 51.52599409
+  },
+  {
+    "id": 672183,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04508016,
+    "latitude": 51.52599676
+  },
+  {
+    "id": 673905,
+    "borough": "Newham",
+    "tree_name": "Ash",
+    "taxon_name": "Fraxinus excelsior",
+    "common_name": "Ash",
+    "longitude": 0.03905442,
+    "latitude": 51.52600283
+  },
+  {
+    "id": 679998,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04030886,
+    "latitude": 51.52600798
+  },
+  {
+    "id": 680051,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04521101,
+    "latitude": 51.52602145
+  },
+  {
+    "id": 682102,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04325112,
+    "latitude": 51.52603765
+  },
+  {
+    "id": 672060,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04704287,
+    "latitude": 51.52604342
+  },
+  {
+    "id": 673723,
+    "borough": "Newham",
+    "tree_name": "Horse chestnut",
+    "taxon_name": "Aesculus hippocastanum",
+    "common_name": "Horse chestnut",
+    "longitude": 0.04604973,
+    "latitude": 51.52607875
+  },
+  {
+    "id": 672359,
+    "borough": "Newham",
+    "tree_name": "Rowan",
+    "taxon_name": "Sorbus aucuparia",
+    "common_name": "Rowan",
+    "longitude": 0.04798162,
+    "latitude": 51.52608098
+  },
+  {
+    "id": 680268,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04114838,
+    "latitude": 51.52608329
+  },
+  {
+    "id": 671987,
+    "borough": "Newham",
+    "tree_name": "Rowan",
+    "taxon_name": "Sorbus aucuparia",
+    "common_name": "Rowan",
+    "longitude": 0.04417586,
+    "latitude": 51.52608448
+  },
+  {
+    "id": 671988,
+    "borough": "Newham",
+    "tree_name": "Birch",
+    "taxon_name": "Betula utilis",
+    "common_name": "A flowering plant",
+    "longitude": 0.04419067,
+    "latitude": 51.52609321
+  },
+  {
+    "id": 680046,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer platanoides",
+    "common_name": "Norway maple",
+    "longitude": 0.04505578,
+    "latitude": 51.5260961
+  },
+  {
+    "id": 680014,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.0403709,
+    "latitude": 51.52610582
+  },
+  {
+    "id": 680286,
+    "borough": "Newham",
+    "tree_name": "Sycamore",
+    "taxon_name": "Acer pseudoplatanus",
+    "common_name": "Sycamore",
+    "longitude": 0.04129363,
+    "latitude": 51.52610774
+  },
+  {
+    "id": 678524,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04220196,
+    "latitude": 51.5261099
+  },
+  {
+    "id": 671984,
+    "borough": "Newham",
+    "tree_name": "Apple",
+    "taxon_name": "Malus",
+    "common_name": "Apple",
+    "longitude": 0.04406183,
+    "latitude": 51.52611344
+  },
+  {
+    "id": 680050,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer platanoides",
+    "common_name": "Norway maple",
+    "longitude": 0.04515782,
+    "latitude": 51.5261213
+  },
+  {
+    "id": 672051,
+    "borough": "Newham",
+    "tree_name": "Sycamore",
+    "taxon_name": "Acer pseudoplatanus",
+    "common_name": "Sycamore",
+    "longitude": 0.04714733,
+    "latitude": 51.52612253
+  },
+  {
+    "id": 669468,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04615378,
+    "latitude": 51.52614888
+  },
+  {
+    "id": 666808,
+    "borough": "Newham",
+    "tree_name": "Apple",
+    "taxon_name": "Malus",
+    "common_name": "Apple",
+    "longitude": 0.0395086,
+    "latitude": 51.52616579
+  },
+  {
+    "id": 680047,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04498858,
+    "latitude": 51.52620519
+  },
+  {
+    "id": 681730,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04341722,
+    "latitude": 51.52620562
+  },
+  {
+    "id": 666807,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.03974109,
+    "latitude": 51.52620671
+  },
+  {
+    "id": 682100,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04299947,
+    "latitude": 51.5262129
+  },
+  {
+    "id": 678523,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04216357,
+    "latitude": 51.52621848
+  },
+  {
+    "id": 680269,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04112559,
+    "latitude": 51.52621858
+  },
+  {
+    "id": 671985,
+    "borough": "Newham",
+    "tree_name": "Sycamore",
+    "taxon_name": "Acer pseudoplatanus",
+    "common_name": "Sycamore",
+    "longitude": 0.04400903,
+    "latitude": 51.52622228
+  },
+  {
+    "id": 671986,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer",
+    "common_name": "Maple",
+    "longitude": 0.04400903,
+    "latitude": 51.52622228
+  },
+  {
+    "id": 671989,
+    "borough": "Newham",
+    "tree_name": "Pear",
+    "taxon_name": "Pyrus",
+    "common_name": "Pyrus species",
+    "longitude": 0.04412468,
+    "latitude": 51.52622925
+  },
+  {
+    "id": 681729,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04360569,
+    "latitude": 51.52622931
+  },
+  {
+    "id": 671990,
+    "borough": "Newham",
+    "tree_name": "Pear",
+    "taxon_name": "Pyrus",
+    "common_name": "Pyrus species",
+    "longitude": 0.04413948,
+    "latitude": 51.52623799
+  },
+  {
+    "id": 666806,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus",
+    "common_name": "Flowering cherry",
+    "longitude": 0.03994437,
+    "latitude": 51.52623914
+  },
+  {
+    "id": 673724,
+    "borough": "Newham",
+    "tree_name": "Apple",
+    "taxon_name": "Malus",
+    "common_name": "Apple",
+    "longitude": 0.04598495,
+    "latitude": 51.52624175
+  },
+  {
+    "id": 681198,
+    "borough": "Newham",
+    "tree_name": "Hawthorn",
+    "taxon_name": "Crataegus persimilis",
+    "common_name": "Broad leaved cockspurthorn",
+    "longitude": 0.04597054,
+    "latitude": 51.52624201
+  },
+  {
+    "id": 680049,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04513465,
+    "latitude": 51.5262476
+  },
+  {
+    "id": 680285,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04122804,
+    "latitude": 51.52625276
+  },
+  {
+    "id": 681731,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04326077,
+    "latitude": 51.52625331
+  },
+  {
+    "id": 678502,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04202112,
+    "latitude": 51.52625693
+  },
+  {
+    "id": 681728,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04382338,
+    "latitude": 51.52626149
+  },
+  {
+    "id": 666805,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04010403,
+    "latitude": 51.52626334
+  },
+  {
+    "id": 682101,
+    "borough": "Newham",
+    "tree_name": "Apple",
+    "taxon_name": "Malus",
+    "common_name": "Apple",
+    "longitude": 0.04313193,
+    "latitude": 51.52627354
+  },
+  {
+    "id": 681732,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04349326,
+    "latitude": 51.52629422
+  },
+  {
+    "id": 681727,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04415711,
+    "latitude": 51.52630962
+  },
+  {
+    "id": 677249,
+    "borough": "Newham",
+    "tree_name": "Birch",
+    "taxon_name": "Betula utilis",
+    "common_name": "A flowering plant",
+    "longitude": 0.03925573,
+    "latitude": 51.52631408
+  },
+  {
+    "id": 681733,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04368174,
+    "latitude": 51.52631791
+  },
+  {
+    "id": 669467,
+    "borough": "Newham",
+    "tree_name": "Horse chestnut",
+    "taxon_name": "Aesculus hippocastanum",
+    "common_name": "Horse chestnut",
+    "longitude": 0.046075,
+    "latitude": 51.52632112
+  },
+  {
+    "id": 666809,
+    "borough": "Newham",
+    "tree_name": "Apple",
+    "taxon_name": "Malus",
+    "common_name": "Apple",
+    "longitude": 0.04004922,
+    "latitude": 51.52632725
+  },
+  {
+    "id": 678522,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04211077,
+    "latitude": 51.52632731
+  },
+  {
+    "id": 680270,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04105879,
+    "latitude": 51.52633665
+  },
+  {
+    "id": 681726,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04437479,
+    "latitude": 51.5263418
+  },
+  {
+    "id": 666804,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04056901,
+    "latitude": 51.52634518
+  },
+  {
+    "id": 672050,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus",
+    "common_name": "Flowering cherry",
+    "longitude": 0.04704216,
+    "latitude": 51.52634919
+  },
+  {
+    "id": 681734,
+    "borough": "Newham",
+    "tree_name": "Hornbeam",
+    "taxon_name": "Carpinus betulus",
+    "common_name": "Hornbeam",
+    "longitude": 0.04388502,
+    "latitude": 51.52635034
+  },
+  {
+    "id": 680048,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer platanoides",
+    "common_name": "Norway maple",
+    "longitude": 0.04493821,
+    "latitude": 51.52636794
+  },
+  {
+    "id": 673725,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04594737,
+    "latitude": 51.52636831
+  },
+  {
+    "id": 680284,
+    "borough": "Newham",
+    "tree_name": "Pear",
+    "taxon_name": "Pyrus",
+    "common_name": "Pyrus species",
+    "longitude": 0.04117564,
+    "latitude": 51.52637058
+  },
+  {
+    "id": 680283,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04116123,
+    "latitude": 51.52637083
+  },
+  {
+    "id": 666810,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04032533,
+    "latitude": 51.5263764
+  },
+  {
+    "id": 672360,
+    "borough": "Newham",
+    "tree_name": "Horse chestnut",
+    "taxon_name": "Aesculus hippocastanum",
+    "common_name": "Horse chestnut",
+    "longitude": 0.04786527,
+    "latitude": 51.52637978
+  },
+  {
+    "id": 672102,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer platanoides",
+    "common_name": "Norway maple",
+    "longitude": 0.03908568,
+    "latitude": 51.52637999
+  },
+  {
+    "id": 681736,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04410271,
+    "latitude": 51.52638251
+  },
+  {
+    "id": 681725,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04460729,
+    "latitude": 51.5263827
+  },
+  {
+    "id": 681735,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.0440883,
+    "latitude": 51.52638276
+  },
+  {
+    "id": 666803,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus",
+    "common_name": "Flowering cherry",
+    "longitude": 0.04081591,
+    "latitude": 51.52638584
+  },
+  {
+    "id": 672352,
+    "borough": "Newham",
+    "tree_name": "Rowan",
+    "taxon_name": "Sorbus aucuparia",
+    "common_name": "Rowan",
+    "longitude": 0.04799532,
+    "latitude": 51.5263865
+  },
+  {
+    "id": 672353,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus",
+    "common_name": "Flowering cherry",
+    "longitude": 0.04799532,
+    "latitude": 51.5263865
+  },
+  {
+    "id": 681724,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04479576,
+    "latitude": 51.52640639
+  },
+  {
+    "id": 673812,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04094676,
+    "latitude": 51.52641054
+  },
+  {
+    "id": 680013,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04025491,
+    "latitude": 51.52641359
+  },
+  {
+    "id": 666811,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus",
+    "common_name": "Flowering cherry",
+    "longitude": 0.04052901,
+    "latitude": 51.52641781
+  },
+  {
+    "id": 678521,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04207157,
+    "latitude": 51.52641792
+  },
+  {
+    "id": 681737,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04435001,
+    "latitude": 51.52643216
+  },
+  {
+    "id": 666812,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.0407611,
+    "latitude": 51.52644974
+  },
+  {
+    "id": 681738,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04456729,
+    "latitude": 51.52645534
+  },
+  {
+    "id": 673726,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04590818,
+    "latitude": 51.52645892
+  },
+  {
+    "id": 682079,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04288108,
+    "latitude": 51.52646676
+  },
+  {
+    "id": 681723,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04515911,
+    "latitude": 51.526472
+  },
+  {
+    "id": 681739,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04477058,
+    "latitude": 51.52648777
+  },
+  {
+    "id": 673811,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04141175,
+    "latitude": 51.52649237
+  },
+  {
+    "id": 669470,
+    "borough": "Newham",
+    "tree_name": "Pear",
+    "taxon_name": "Pyrus",
+    "common_name": "Pyrus species",
+    "longitude": 0.04601063,
+    "latitude": 51.5264931
+  },
+  {
+    "id": 681722,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04536199,
+    "latitude": 51.52649543
+  },
+  {
+    "id": 666813,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04093637,
+    "latitude": 51.52650065
+  },
+  {
+    "id": 682099,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04304155,
+    "latitude": 51.52650893
+  },
+  {
+    "id": 672061,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus",
+    "common_name": "Flowering cherry",
+    "longitude": 0.04686215,
+    "latitude": 51.52651421
+  },
+  {
+    "id": 672361,
+    "borough": "Newham",
+    "tree_name": "Beech",
+    "taxon_name": "Fagus sylvatica",
+    "common_name": "Beech",
+    "longitude": 0.0478137,
+    "latitude": 51.52651557
+  },
+  {
+    "id": 681740,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04500267,
+    "latitude": 51.52651969
+  },
+  {
+    "id": 666814,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04118247,
+    "latitude": 51.52652334
+  },
+  {
+    "id": 678519,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04201878,
+    "latitude": 51.52652676
+  },
+  {
+    "id": 681721,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04553647,
+    "latitude": 51.52652836
+  },
+  {
+    "id": 804099,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer platanoides",
+    "common_name": "Maple",
+    "longitude": 0.04694148,
+    "latitude": 51.52652877
+  },
+  {
+    "id": 673727,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04588259,
+    "latitude": 51.52653131
+  },
+  {
+    "id": 680282,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04111125,
+    "latitude": 51.52654257
+  },
+  {
+    "id": 672103,
+    "borough": "Newham",
+    "tree_name": "Other",
+    "taxon_name": "Ginkgo biloba",
+    "common_name": "Maidenhair tree",
+    "longitude": 0.03900647,
+    "latitude": 51.52654324
+  },
+  {
+    "id": 681741,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04516233,
+    "latitude": 51.52654388
+  },
+  {
+    "id": 682080,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04284189,
+    "latitude": 51.52655738
+  },
+  {
+    "id": 681720,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04575416,
+    "latitude": 51.52656053
+  },
+  {
+    "id": 681742,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04538002,
+    "latitude": 51.52657605
+  },
+  {
+    "id": 679999,
+    "borough": "Newham",
+    "tree_name": "Rowan",
+    "taxon_name": "Sorbus aucuparia",
+    "common_name": "Rowan",
+    "longitude": 0.04001725,
+    "latitude": 51.5265796
+  },
+  {
+    "id": 680000,
+    "borough": "Newham",
+    "tree_name": "Birch",
+    "taxon_name": "Betula utilis",
+    "common_name": "A flowering plant",
+    "longitude": 0.04003206,
+    "latitude": 51.52658834
+  },
+  {
+    "id": 673810,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04207961,
+    "latitude": 51.52659764
+  },
+  {
+    "id": 666815,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04156062,
+    "latitude": 51.52659769
+  },
+  {
+    "id": 681743,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04553969,
+    "latitude": 51.52660025
+  },
+  {
+    "id": 681719,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04608789,
+    "latitude": 51.52660866
+  },
+  {
+    "id": 673809,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04225328,
+    "latitude": 51.5266126
+  },
+  {
+    "id": 682098,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04298875,
+    "latitude": 51.52661777
+  },
+  {
+    "id": 677248,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer platanoides",
+    "common_name": "Norway maple",
+    "longitude": 0.03914013,
+    "latitude": 51.52663084
+  },
+  {
+    "id": 672351,
+    "borough": "Newham",
+    "tree_name": "Rowan",
+    "taxon_name": "Sorbus aucuparia",
+    "common_name": "Rowan",
+    "longitude": 0.04789136,
+    "latitude": 51.52664011
+  },
+  {
+    "id": 681194,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus",
+    "common_name": "Flowering cherry",
+    "longitude": 0.04792058,
+    "latitude": 51.52664859
+  },
+  {
+    "id": 680012,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.0401357,
+    "latitude": 51.52664948
+  },
+  {
+    "id": 681718,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04629158,
+    "latitude": 51.52665007
+  },
+  {
+    "id": 672062,
+    "borough": "Newham",
+    "tree_name": "Birch",
+    "taxon_name": "Betula",
+    "common_name": "Birch",
+    "longitude": 0.04678176,
+    "latitude": 51.5266505
+  },
+  {
+    "id": 681744,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04600428,
+    "latitude": 51.52667307
+  },
+  {
+    "id": 666816,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04202561,
+    "latitude": 51.52667952
+  },
+  {
+    "id": 673808,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04263144,
+    "latitude": 51.52668694
+  },
+  {
+    "id": 678503,
+    "borough": "Newham",
+    "tree_name": "Sycamore",
+    "taxon_name": "Acer pseudoplatanus",
+    "common_name": "Sycamore",
+    "longitude": 0.04182434,
+    "latitude": 51.52669202
+  },
+  {
+    "id": 672362,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus",
+    "common_name": "Flowering cherry",
+    "longitude": 0.04773533,
+    "latitude": 51.52669679
+  },
+  {
+    "id": 681717,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04649567,
+    "latitude": 51.52670046
+  },
+  {
+    "id": 681745,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04619396,
+    "latitude": 51.52672372
+  },
+  {
+    "id": 678520,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04192678,
+    "latitude": 51.5267262
+  },
+  {
+    "id": 681716,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04669895,
+    "latitude": 51.52673288
+  },
+  {
+    "id": 680011,
+    "borough": "Newham",
+    "tree_name": "Ash",
+    "taxon_name": "Fraxinus excelsior",
+    "common_name": "Ash",
+    "longitude": 0.04011091,
+    "latitude": 51.52673984
+  },
+  {
+    "id": 680001,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.03996686,
+    "latitude": 51.52674235
+  },
+  {
+    "id": 666817,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04240336,
+    "latitude": 51.52674488
+  },
+  {
+    "id": 681746,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04638284,
+    "latitude": 51.52675639
+  },
+  {
+    "id": 674681,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04311083,
+    "latitude": 51.52676851
+  },
+  {
+    "id": 680281,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04099204,
+    "latitude": 51.52677846
+  },
+  {
+    "id": 681715,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04694626,
+    "latitude": 51.52678252
+  },
+  {
+    "id": 672350,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus",
+    "common_name": "Flowering cherry",
+    "longitude": 0.0478546,
+    "latitude": 51.52678464
+  },
+  {
+    "id": 674679,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04334292,
+    "latitude": 51.52680044
+  },
+  {
+    "id": 681747,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04657253,
+    "latitude": 51.52680703
+  },
+  {
+    "id": 674678,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04354621,
+    "latitude": 51.52683287
+  },
+  {
+    "id": 678504,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus",
+    "common_name": "Flowering cherry",
+    "longitude": 0.04174434,
+    "latitude": 51.52683729
+  },
+  {
+    "id": 681748,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04677581,
+    "latitude": 51.52683945
+  },
+  {
+    "id": 672363,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus",
+    "common_name": "Flowering cherry",
+    "longitude": 0.04768415,
+    "latitude": 51.52684157
+  },
+  {
+    "id": 674677,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04374949,
+    "latitude": 51.52686529
+  },
+  {
+    "id": 680009,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.0400445,
+    "latitude": 51.5268669
+  },
+  {
+    "id": 678517,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04186119,
+    "latitude": 51.52687123
+  },
+  {
+    "id": 681714,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04733964,
+    "latitude": 51.52687457
+  },
+  {
+    "id": 680271,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04078038,
+    "latitude": 51.52688106
+  },
+  {
+    "id": 674676,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04396718,
+    "latitude": 51.52689747
+  },
+  {
+    "id": 677247,
+    "borough": "Newham",
+    "tree_name": "Sycamore",
+    "taxon_name": "Acer pseudoplatanus",
+    "common_name": "Sycamore",
+    "longitude": 0.03900812,
+    "latitude": 51.52690292
+  },
+  {
+    "id": 681713,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04758694,
+    "latitude": 51.52692421
+  },
+  {
+    "id": 678505,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04171954,
+    "latitude": 51.52692765
+  },
+  {
+    "id": 682078,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04417046,
+    "latitude": 51.52692989
+  },
+  {
+    "id": 674682,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04349301,
+    "latitude": 51.52693271
+  },
+  {
+    "id": 682077,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04434454,
+    "latitude": 51.52695383
+  },
+  {
+    "id": 681749,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04734366,
+    "latitude": 51.52696443
+  },
+  {
+    "id": 674683,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.0437107,
+    "latitude": 51.52696489
+  },
+  {
+    "id": 671287,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04781944,
+    "latitude": 51.52696511
+  },
+  {
+    "id": 682081,
+    "borough": "Newham",
+    "tree_name": "Other",
+    "taxon_name": "Magnolia grandiflora",
+    "common_name": "A flowering plant",
+    "longitude": 0.0426443,
+    "latitude": 51.52697449
+  },
+  {
+    "id": 678516,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04182279,
+    "latitude": 51.52697981
+  },
+  {
+    "id": 673728,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.0458307,
+    "latitude": 51.52698186
+  },
+  {
+    "id": 680002,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.03983364,
+    "latitude": 51.52698747
+  },
+  {
+    "id": 682076,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04463466,
+    "latitude": 51.52699374
+  },
+  {
+    "id": 681750,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04754695,
+    "latitude": 51.52699685
+  },
+  {
+    "id": 674684,
+    "borough": "Newham",
+    "tree_name": "Apple",
+    "taxon_name": "Malus",
+    "common_name": "Apple",
+    "longitude": 0.04392839,
+    "latitude": 51.52699706
+  },
+  {
+    "id": 680272,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.0407712,
+    "latitude": 51.52699813
+  },
+  {
+    "id": 680280,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04090165,
+    "latitude": 51.52701384
+  },
+  {
+    "id": 682075,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04488116,
+    "latitude": 51.52702541
+  },
+  {
+    "id": 674685,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04413167,
+    "latitude": 51.52702949
+  },
+  {
+    "id": 674680,
+    "borough": "Newham",
+    "tree_name": "Birch",
+    "taxon_name": "Betula utilis",
+    "common_name": "A flowering plant",
+    "longitude": 0.04429094,
+    "latitude": 51.5270447
+  },
+  {
+    "id": 681751,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04776545,
+    "latitude": 51.52704699
+  },
+  {
+    "id": 681752,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04796874,
+    "latitude": 51.5270794
+  },
+  {
+    "id": 678506,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04163994,
+    "latitude": 51.52708192
+  },
+  {
+    "id": 682082,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.0425915,
+    "latitude": 51.52708332
+  },
+  {
+    "id": 682097,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04277918,
+    "latitude": 51.52708904
+  },
+  {
+    "id": 674686,
+    "borough": "Newham",
+    "tree_name": "Other",
+    "taxon_name": "Liquidambar styraciflua",
+    "common_name": "Sweet gum",
+    "longitude": 0.04459587,
+    "latitude": 51.52709333
+  },
+  {
+    "id": 680010,
+    "borough": "Newham",
+    "tree_name": "Birch",
+    "taxon_name": "Betula utilis",
+    "common_name": "A flowering plant",
+    "longitude": 0.03980965,
+    "latitude": 51.52709581
+  },
+  {
+    "id": 680273,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04070359,
+    "latitude": 51.52709823
+  },
+  {
+    "id": 682074,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04533135,
+    "latitude": 51.52709849
+  },
+  {
+    "id": 673731,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04564867,
+    "latitude": 51.52710194
+  },
+  {
+    "id": 680008,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.0399397,
+    "latitude": 51.52710253
+  },
+  {
+    "id": 673730,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04577872,
+    "latitude": 51.52710866
+  },
+  {
+    "id": 678515,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04175679,
+    "latitude": 51.52711585
+  },
+  {
+    "id": 682071,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04556344,
+    "latitude": 51.52713041
+  },
+  {
+    "id": 682072,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer campestre",
+    "common_name": "Field maple",
+    "longitude": 0.04556344,
+    "latitude": 51.52713041
+  },
+  {
+    "id": 674687,
+    "borough": "Newham",
+    "tree_name": "Other",
+    "taxon_name": "Liquidambar styraciflua",
+    "common_name": "Sweet gum",
+    "longitude": 0.04481396,
+    "latitude": 51.52713449
+  },
+  {
+    "id": 682073,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer campestre",
+    "common_name": "Field maple",
+    "longitude": 0.04556384,
+    "latitude": 51.52713939
+  },
+  {
+    "id": 682083,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04256591,
+    "latitude": 51.52715571
+  },
+  {
+    "id": 674688,
+    "borough": "Newham",
+    "tree_name": "Apple",
+    "taxon_name": "Malus",
+    "common_name": "Apple",
+    "longitude": 0.04503165,
+    "latitude": 51.52716667
+  },
+  {
+    "id": 674689,
+    "borough": "Newham",
+    "tree_name": "Apple",
+    "taxon_name": "Malus",
+    "common_name": "Apple",
+    "longitude": 0.04503165,
+    "latitude": 51.52716667
+  },
+  {
+    "id": 680279,
+    "borough": "Newham",
+    "tree_name": "Pear",
+    "taxon_name": "Pyrus",
+    "common_name": "Pyrus species",
+    "longitude": 0.04080764,
+    "latitude": 51.52716836
+  },
+  {
+    "id": 682070,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04579594,
+    "latitude": 51.52717131
+  },
+  {
+    "id": 682096,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04272638,
+    "latitude": 51.52719788
+  },
+  {
+    "id": 674690,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04524934,
+    "latitude": 51.52719884
+  },
+  {
+    "id": 678507,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04158795,
+    "latitude": 51.52720872
+  },
+  {
+    "id": 682069,
+    "borough": "Newham",
+    "tree_name": "Hornbeam",
+    "taxon_name": "Carpinus betulus",
+    "common_name": "Hornbeam",
+    "longitude": 0.04602884,
+    "latitude": 51.5272212
+  },
+  {
+    "id": 678514,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.041704,
+    "latitude": 51.52722469
+  },
+  {
+    "id": 674691,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04552506,
+    "latitude": 51.52723899
+  },
+  {
+    "id": 680278,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04079645,
+    "latitude": 51.5272405
+  },
+  {
+    "id": 804070,
+    "borough": "Newham",
+    "tree_name": "Whitebeam",
+    "taxon_name": "Sorbus aucuparia",
+    "common_name": "Mountain ash",
+    "longitude": 0.0397016,
+    "latitude": 51.52724122
+  },
+  {
+    "id": 682084,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04252712,
+    "latitude": 51.52725531
+  },
+  {
+    "id": 682068,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04618932,
+    "latitude": 51.52726336
+  },
+  {
+    "id": 669474,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04555628,
+    "latitude": 51.5272924
+  },
+  {
+    "id": 674692,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.0458592,
+    "latitude": 51.52729611
+  },
+  {
+    "id": 682067,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04645063,
+    "latitude": 51.52730377
+  },
+  {
+    "id": 680007,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.0398345,
+    "latitude": 51.52732919
+  },
+  {
+    "id": 680003,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer platanoides",
+    "common_name": "Norway maple",
+    "longitude": 0.03970485,
+    "latitude": 51.52733144
+  },
+  {
+    "id": 674693,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.0460773,
+    "latitude": 51.52733726
+  },
+  {
+    "id": 682066,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04663991,
+    "latitude": 51.52734542
+  },
+  {
+    "id": 678508,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04152235,
+    "latitude": 51.52735375
+  },
+  {
+    "id": 674694,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04615013,
+    "latitude": 51.52735398
+  },
+  {
+    "id": 680277,
+    "borough": "Newham",
+    "tree_name": "Other",
+    "taxon_name": "Magnolia grandiflora",
+    "common_name": "A flowering plant",
+    "longitude": 0.04072965,
+    "latitude": 51.52735857
+  },
+  {
+    "id": 680276,
+    "borough": "Newham",
+    "tree_name": "Whitebeam",
+    "taxon_name": "Sorbus",
+    "common_name": "Whitebeam",
+    "longitude": 0.04071524,
+    "latitude": 51.52735882
+  },
+  {
+    "id": 682085,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04246032,
+    "latitude": 51.52737338
+  },
+  {
+    "id": 682065,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04679999,
+    "latitude": 51.5273786
+  },
+  {
+    "id": 678513,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.0416388,
+    "latitude": 51.5273787
+  },
+  {
+    "id": 671629,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04306615,
+    "latitude": 51.5273808
+  },
+  {
+    "id": 680274,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.0406012,
+    "latitude": 51.52738778
+  },
+  {
+    "id": 674695,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04649949,
+    "latitude": 51.52742881
+  },
+  {
+    "id": 673729,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04551951,
+    "latitude": 51.52743693
+  },
+  {
+    "id": 671628,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04350153,
+    "latitude": 51.52744516
+  },
+  {
+    "id": 673733,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer campestre",
+    "common_name": "Field maple",
+    "longitude": 0.04550551,
+    "latitude": 51.52744617
+  },
+  {
+    "id": 673732,
+    "borough": "Newham",
+    "tree_name": "Other",
+    "taxon_name": "Magnolia",
+    "common_name": "A flowering plant",
+    "longitude": 0.0454915,
+    "latitude": 51.5274554
+  },
+  {
+    "id": 680004,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.03963884,
+    "latitude": 51.52746748
+  },
+  {
+    "id": 678509,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04148436,
+    "latitude": 51.52747132
+  },
+  {
+    "id": 674696,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.0467468,
+    "latitude": 51.52747845
+  },
+  {
+    "id": 682064,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04723699,
+    "latitude": 51.52747888
+  },
+  {
+    "id": 682086,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04242192,
+    "latitude": 51.52748196
+  },
+  {
+    "id": 671630,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04324384,
+    "latitude": 51.52748562
+  },
+  {
+    "id": 671627,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04373403,
+    "latitude": 51.52748607
+  },
+  {
+    "id": 680275,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04067805,
+    "latitude": 51.52749436
+  },
+  {
+    "id": 678512,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04160081,
+    "latitude": 51.52749627
+  },
+  {
+    "id": 682095,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04258159,
+    "latitude": 51.52750616
+  },
+  {
+    "id": 671626,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04396573,
+    "latitude": 51.527509
+  },
+  {
+    "id": 671631,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04347594,
+    "latitude": 51.52751754
+  },
+  {
+    "id": 682063,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.0474843,
+    "latitude": 51.52752852
+  },
+  {
+    "id": 671625,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04419823,
+    "latitude": 51.52754991
+  },
+  {
+    "id": 671632,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04370844,
+    "latitude": 51.52755845
+  },
+  {
+    "id": 673734,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04545312,
+    "latitude": 51.52756399
+  },
+  {
+    "id": 673736,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04558317,
+    "latitude": 51.52757071
+  },
+  {
+    "id": 684655,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04085453,
+    "latitude": 51.52757222
+  },
+  {
+    "id": 682087,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04236872,
+    "latitude": 51.52758181
+  },
+  {
+    "id": 682062,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04778963,
+    "latitude": 51.52758613
+  },
+  {
+    "id": 674697,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04727063,
+    "latitude": 51.52758621
+  },
+  {
+    "id": 681199,
+    "borough": "Newham",
+    "tree_name": "Apple",
+    "taxon_name": "Malus",
+    "common_name": "Apple",
+    "longitude": 0.04450276,
+    "latitude": 51.52758956
+  },
+  {
+    "id": 678511,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04141836,
+    "latitude": 51.52760736
+  },
+  {
+    "id": 684654,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer platanoides",
+    "common_name": "Norway maple",
+    "longitude": 0.04115906,
+    "latitude": 51.52761188
+  },
+  {
+    "id": 678510,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.041534,
+    "latitude": 51.52761434
+  },
+  {
+    "id": 682094,
+    "borough": "Newham",
+    "tree_name": "Other",
+    "taxon_name": "Ligustrum lucidum",
+    "common_name": "Tree privet",
+    "longitude": 0.04252879,
+    "latitude": 51.52761499
+  },
+  {
+    "id": 671633,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04417264,
+    "latitude": 51.5276223
+  },
+  {
+    "id": 674698,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04748913,
+    "latitude": 51.52763635
+  },
+  {
+    "id": 684656,
+    "borough": "Newham",
+    "tree_name": "Cherry",
+    "taxon_name": "Prunus",
+    "common_name": "Flowering cherry",
+    "longitude": 0.0407565,
+    "latitude": 51.52763687
+  },
+  {
+    "id": 684653,
+    "borough": "Newham",
+    "tree_name": "Rowan",
+    "taxon_name": "Sorbus aucuparia",
+    "common_name": "Rowan",
+    "longitude": 0.04130472,
+    "latitude": 51.52764531
+  },
+  {
+    "id": 671624,
+    "borough": "Newham",
+    "tree_name": "Apple",
+    "taxon_name": "Malus",
+    "common_name": "Apple",
+    "longitude": 0.04493854,
+    "latitude": 51.52766289
+  },
+  {
+    "id": 680005,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.03954684,
+    "latitude": 51.52766693
+  },
+  {
+    "id": 673735,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04541514,
+    "latitude": 51.52768156
+  },
+  {
+    "id": 684657,
+    "borough": "Newham",
+    "tree_name": "Maple",
+    "taxon_name": "Acer platanoides",
+    "common_name": "Norway maple",
+    "longitude": 0.04106143,
+    "latitude": 51.52768552
+  },
+  {
+    "id": 674699,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04773644,
+    "latitude": 51.52768598
+  },
+  {
+    "id": 671623,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04515584,
+    "latitude": 51.52768608
+  },
+  {
+    "id": 669465,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04551638,
+    "latitude": 51.52768878
+  },
+  {
+    "id": 669466,
+    "borough": "Newham",
+    "tree_name": "Horse chestnut",
+    "taxon_name": "Aesculus hippocastanum",
+    "common_name": "Horse chestnut",
+    "longitude": 0.04551638,
+    "latitude": 51.52768878
+  },
+  {
+    "id": 682088,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04233033,
+    "latitude": 51.52769039
+  },
+  {
+    "id": 684652,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04160965,
+    "latitude": 51.52769396
+  },
+  {
+    "id": 664426,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.03905865,
+    "latitude": 51.52771139
+  },
+  {
+    "id": 682093,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04249,
+    "latitude": 51.52771459
+  },
+  {
+    "id": 671634,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04488414,
+    "latitude": 51.52773579
+  },
+  {
+    "id": 672575,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04556241,
+    "latitude": 51.52775093
+  },
+  {
+    "id": 671635,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04511624,
+    "latitude": 51.52776771
+  },
+  {
+    "id": 684651,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04200222,
+    "latitude": 51.52776805
+  },
+  {
+    "id": 684658,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04152683,
+    "latitude": 51.52777634
+  },
+  {
+    "id": 680006,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.03959607,
+    "latitude": 51.52780096
+  },
+  {
+    "id": 672574,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04578091,
+    "latitude": 51.52780107
+  },
+  {
+    "id": 684659,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04187498,
+    "latitude": 51.52782423
+  },
+  {
+    "id": 672573,
+    "borough": "Newham",
+    "tree_name": "Apple",
+    "taxon_name": "Malus",
+    "common_name": "Apple",
+    "longitude": 0.04594099,
+    "latitude": 51.52783425
+  },
+  {
+    "id": 671636,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04553763,
+    "latitude": 51.52784129
+  },
+  {
+    "id": 667161,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04269771,
+    "latitude": 51.52784586
+  },
+  {
+    "id": 664425,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.03958368,
+    "latitude": 51.52784614
+  },
+  {
+    "id": 671637,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04568289,
+    "latitude": 51.52786573
+  },
+  {
+    "id": 664417,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.03935399,
+    "latitude": 51.52786812
+  },
+  {
+    "id": 673742,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.045438,
+    "latitude": 51.52787001
+  },
+  {
+    "id": 673744,
+    "borough": "Newham",
+    "tree_name": "Whitebeam",
+    "taxon_name": "Sorbus",
+    "common_name": "Whitebeam",
+    "longitude": 0.045438,
+    "latitude": 51.52787001
+  },
+  {
+    "id": 684660,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04218031,
+    "latitude": 51.52788186
+  },
+  {
+    "id": 672572,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.0461887,
+    "latitude": 51.52789287
+  },
+  {
+    "id": 671638,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.0459158,
+    "latitude": 51.52791562
+  },
+  {
+    "id": 672571,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04639199,
+    "latitude": 51.52792529
+  },
+  {
+    "id": 664418,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.03960169,
+    "latitude": 51.52792676
+  },
+  {
+    "id": 684437,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04797822,
+    "latitude": 51.52793355
+  },
+  {
+    "id": 667160,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04307668,
+    "latitude": 51.52793817
+  },
+  {
+    "id": 667162,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.0426301,
+    "latitude": 51.52794596
+  },
+  {
+    "id": 671639,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04610509,
+    "latitude": 51.52795728
+  },
+  {
+    "id": 667159,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04327956,
+    "latitude": 51.52796162
+  },
+  {
+    "id": 672570,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04656687,
+    "latitude": 51.5279672
+  },
+  {
+    "id": 667163,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04276096,
+    "latitude": 51.52797066
+  },
+  {
+    "id": 664424,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04013792,
+    "latitude": 51.52798937
+  },
+  {
+    "id": 669464,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04528517,
+    "latitude": 51.52799857
+  },
+  {
+    "id": 671640,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04626556,
+    "latitude": 51.52799944
+  },
+  {
+    "id": 672569,
+    "borough": "Newham",
+    "tree_name": "Plane",
+    "taxon_name": "Platanus occidentalis x orientalis = p. x hispanica",
+    "common_name": "London plane",
+    "longitude": 0.04677016,
+    "latitude": 51.52799962
+  }
+]
