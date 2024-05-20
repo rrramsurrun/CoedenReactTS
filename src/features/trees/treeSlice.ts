@@ -1,4 +1,3 @@
-import { createAsyncThunk } from "@reduxjs/toolkit";
 import { createAppSlice } from "../../redux/createAppSlice";
 import { getSampleTrees } from "./treesAPI";
 
