@@ -38,14 +38,45 @@ export const treeSlice = createAppSlice({
         },
         fulfilled: (state, action) => {
           state.status = "successful";
-          state.trees = [
-            action.payload[Math.floor(Math.random() * action.payload.length)],
-          ];
+          state.trees = action.payload;
         },
         rejected: (state) => {
           state.status = "failed";
         },
       }
+    ),
+    getTreesByBounds: create.asyncThunk(
+      async (bounds: number[]) => {
+        console.log(
+          "Current map bounds are:  ",
+          "\n",
+          "N:",
+          bounds[0],
+          "S:",
+          bounds[1],
+          "E:",
+          bounds[2],
+          "W:",
+          bounds[3]
+        );
+        // const trees = await getSampleTrees();
+        // return trees;
+      }
+      // ,
+      // {
+      //   pending: (state) => {
+      //     state.status = "loading";
+      //   },
+      //   fulfilled: (state, action) => {
+      //     state.status = "successful";
+      //     state.trees = [
+      //       action.payload[Math.floor(Math.random() * action.payload.length)],
+      //     ];
+      //   },
+      //   rejected: (state) => {
+      //     state.status = "failed";
+      //   },
+      // }
     ),
   }),
   selectors: {
@@ -54,6 +85,6 @@ export const treeSlice = createAppSlice({
   },
 });
 
-export const { getTrees } = treeSlice.actions;
+export const { getTrees, getTreesByBounds } = treeSlice.actions;
 
 export const { selectTrees, selectStatus } = treeSlice.selectors;
