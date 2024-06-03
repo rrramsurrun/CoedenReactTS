@@ -8,16 +8,19 @@ import { useAppDispatch, useAppSelector } from "../../redux/hooks";
 import {
   selectTrees,
   selectStatus,
-  getTrees,
   Tree,
-  getTreesByBounds,
+  MapDetails,
+  selectMapDetails,
+  updateMapRequestTrees,
 } from "../../features/trees/treeSlice";
-import { useMapEvents } from "react-leaflet";
+import { useMap, useMapEvents } from "react-leaflet";
+import { useEffect } from "react";
+import { Map } from "leaflet";
 
 function MapTrees(trees: Tree[]) {
-  if (trees.length > 0) {
+  if (trees !== undefined) {
     return trees.map((tree) => {
-      return <TreeMarker tree={tree} />;
+      return <TreeMarker key={tree.id} tree={tree} />;
     });
   }
   return null;
@@ -27,18 +30,29 @@ export function loopdeloop(s: string) {
   console.log(s);
 }
 
+function translateMapDetails(map: Map): MapDetails {
+  return {
+    north: map.getBounds().getNorth(),
+    east: map.getBounds().getEast(),
+    south: map.getBounds().getSouth(),
+    west: map.getBounds().getWest(),
+    zoom: map.getZoom(),
+    centerLat: map.getCenter().lat,
+    centerLng: map.getCenter().lng,
+  };
+}
+
 function SetUpListeners() {
   const dispatch = useAppDispatch();
-  const map = useMapEvents({
+  const map = useMap();
+
+  useEffect(() => {
+    dispatch(updateMapRequestTrees(translateMapDetails(map)));
+  }, []);
+
+  useMapEvents({
     moveend(e) {
-      dispatch(
-        getTreesByBounds([
-          map.getBounds().getNorth(),
-          map.getBounds().getSouth(),
-          map.getBounds().getEast(),
-          map.getBounds().getWest(),
-        ])
-      );
+      dispatch(updateMapRequestTrees(translateMapDetails(map)));
     },
   });
   return null;
@@ -47,16 +61,9 @@ function SetUpListeners() {
 export default function TreeMap() {
   const trees = useAppSelector(selectTrees);
   const findingTree = useAppSelector(selectStatus);
+  const currentDetails = useAppSelector(selectMapDetails);
   const dispatch = useAppDispatch();
 
-  function buttonText() {
-    switch (findingTree) {
-      case "successful":
-        return "Click to find another tree";
-      default:
-        return "Click to retrieve a tree";
-    }
-  }
   return (
     <>
       <MapContainer
@@ -74,12 +81,9 @@ export default function TreeMap() {
         {MapTrees(trees)}
         <LocatorButton />
       </MapContainer>
-      <button
-        disabled={findingTree === "loading"}
-        onClick={() => dispatch(getTrees())}
-      >
-        {buttonText()}
-      </button>
+      <div>{findingTree}</div>
+      <div>{currentDetails?.centerLat}</div>
+      <div>{currentDetails?.centerLng}</div>
     </>
   );
 }

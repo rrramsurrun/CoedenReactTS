@@ -1,9 +1,5 @@
 import treeLogo from "../assets/treeImage.png";
-import {
-  getTrees,
-  selectStatus,
-  selectTrees,
-} from "../features/trees/treeSlice";
+import { selectStatus, selectTrees } from "../features/trees/treeSlice";
 import { ClipLoader } from "react-spinners";
 import { useAppDispatch, useAppSelector } from "../redux/hooks";
 import styles from "./SimpleTreeAPI.module.css";
@@ -49,7 +45,7 @@ export default function SimpleTreeAPI() {
       <div className={styles.card}>
         <button
           disabled={findingTree === "loading"}
-          onClick={() => dispatch(getTrees())}
+          onClick={() => console.log("This page is empty")}
         >
           {buttonText()}
         </button>
