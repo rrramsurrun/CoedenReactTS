@@ -12,9 +12,6 @@ export default function NavBar() {
       </ul>
       <ul>
         <li>
-          <NavLink to="/">Simple API</NavLink>
-        </li>
-        <li>
           <NavLink to="/map">Map</NavLink>
         </li>
       </ul>

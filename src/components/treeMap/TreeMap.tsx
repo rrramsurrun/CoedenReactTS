@@ -16,6 +16,7 @@ import {
 import { useMap, useMapEvents } from "react-leaflet";
 import { useEffect } from "react";
 import { Map } from "leaflet";
+// import
 
 function MapTrees(trees: Tree[]) {
   if (trees !== undefined) {
@@ -24,10 +25,6 @@ function MapTrees(trees: Tree[]) {
     });
   }
   return null;
-}
-
-export function loopdeloop(s: string) {
-  console.log(s);
 }
 
 function translateMapDetails(map: Map): MapDetails {
@@ -62,14 +59,23 @@ export default function TreeMap() {
   const trees = useAppSelector(selectTrees);
   const findingTree = useAppSelector(selectStatus);
   const currentDetails = useAppSelector(selectMapDetails);
-  const dispatch = useAppDispatch();
+
+  //Leaflet map requires React.CSSProperties to style
+  let mapStyle: React.CSSProperties;
+  const customMargin = Math.round(window.innerWidth / 40);
+  mapStyle = {
+    height: Math.round(window.innerHeight / 2),
+    marginTop: customMargin,
+    marginLeft: customMargin,
+    marginRight: customMargin,
+  };
 
   return (
     <>
       <MapContainer
-        className={styles.map}
+        style={mapStyle}
         center={[51.505, -0.09]}
-        zoom={13}
+        zoom={16}
         scrollWheelZoom={false}
       >
         <TileLayer
@@ -83,7 +89,7 @@ export default function TreeMap() {
       </MapContainer>
       <div>{findingTree}</div>
       <div>{currentDetails?.centerLat}</div>
-      <div>{currentDetails?.centerLng}</div>
+      <div>{currentDetails?.zoom}</div>
     </>
   );
 }
