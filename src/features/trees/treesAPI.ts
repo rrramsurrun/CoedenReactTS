@@ -3,19 +3,9 @@ import { MapAndTreesResponse, MapDetails, Tree } from "./treeSlice";
 export async function getSampleTrees(
   mapDetails: MapDetails
 ): Promise<MapAndTreesResponse> {
-  return new Promise((resolve) => {
-    setTimeout(async function () {
-      const trees = await getTrees();
-      resolve({ trees: trees, mapDetails: mapDetails });
-    }, 100);
-  });
-}
-async function getTrees(): Promise<Tree[]> {
-  return fetch("/sampleTrees.json").then((res) => {
-    if (!res.ok) {
-      throw new Error(`Error parsing JSON! Error: ${res.status}`);
-    }
-
-    return res.json();
-  });
+  const { north, south, east, west } = mapDetails;
+  const treesDataResponse = await fetch(
+    `https://localhost:8001/trees?N=${north}8&S=${south}&E=${east}&W=${west}`
+  );
+  return await treesDataResponse.json();
 }

@@ -29,9 +29,14 @@ export type MapAndTreesResponse = {
 
 export type TreeSliceState = {
   trees: Tree[];
-  requestStatus: "idle" | "loading" | "failed" | "successful";
+  requestStatus:
+    | "idle"
+    | "Retrieving Trees"
+    | "Failed to load Trees"
+    | "Trees Loaded";
   error: string;
   mapDetails: MapDetails | undefined;
+  currentTree: Tree | undefined;
 };
 
 const initialState: TreeSliceState = {
@@ -39,6 +44,7 @@ const initialState: TreeSliceState = {
   requestStatus: "idle",
   error: "",
   mapDetails: undefined,
+  currentTree: undefined,
 };
 
 function requireNewTrees(oldBounds: MapDetails, newBounds: MapDetails) {
@@ -53,7 +59,7 @@ function requireNewTrees(oldBounds: MapDetails, newBounds: MapDetails) {
   return true;
 }
 
-function getTreesNew(
+async function getTreesNew(
   oldBounds: MapDetails | undefined,
   newBounds: MapDetails,
   oldtrees: Tree[]
@@ -86,27 +92,35 @@ export const treeSlice = createAppSlice({
       },
       {
         pending: (state) => {
-          state.requestStatus = "loading";
+          state.requestStatus = "Retrieving Trees";
         },
         fulfilled: (state, action) => {
-          state.requestStatus = "successful";
+          state.requestStatus = "Trees Loaded";
           state.trees = action.payload.trees;
           state.mapDetails = action.payload.mapDetails;
         },
         rejected: (state) => {
-          state.requestStatus = "failed";
+          state.requestStatus = "Failed to load Trees";
         },
       }
     ),
+    updateCurrentTree: create.reducer<Tree>((state, action) => {
+      state.currentTree = action.payload;
+    }),
   }),
   selectors: {
     selectMapDetails: (state) => state.mapDetails,
     selectTrees: (state) => state.trees,
     selectStatus: (state) => state.requestStatus,
+    selectCurrentTree: (state) => state.currentTree,
   },
 });
 
-export const { updateMapRequestTrees } = treeSlice.actions;
+export const { updateMapRequestTrees, updateCurrentTree } = treeSlice.actions;
 
-export const { selectMapDetails, selectTrees, selectStatus } =
-  treeSlice.selectors;
+export const {
+  selectMapDetails,
+  selectTrees,
+  selectStatus,
+  selectCurrentTree,
+} = treeSlice.selectors;
