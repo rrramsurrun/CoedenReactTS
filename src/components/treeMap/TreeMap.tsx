@@ -1,6 +1,6 @@
 import { MapContainer } from "react-leaflet/MapContainer";
 import { TileLayer } from "react-leaflet/TileLayer";
-import styles from "./TreeMap.module.css";
+// import styles from "./TreeMap.module.css";
 import { LocatorButton } from "./LocatorButton";
 import { SelectedTreeMarker, TreeMarker } from "./TreeMarker";
 import LocationMarker from "./LocatorMarker";
@@ -10,16 +10,14 @@ import {
   selectStatus,
   Tree,
   MapDetails,
-  selectMapDetails,
   updateMapRequestTrees,
   selectCurrentTree,
 } from "../../features/trees/treeSlice";
 import { useMap, useMapEvents } from "react-leaflet";
 import { useEffect, useState } from "react";
 import { Map } from "leaflet";
-import { AppDispatch } from "../../redux/store";
-import { useDispatch } from "react-redux";
 import { TreeInfo } from "./TreeInfo";
+import "leaflet/dist/leaflet.css";
 
 function MapTrees(trees: Tree[], zoomLevel: number) {
   if (trees !== undefined) {
@@ -81,7 +79,7 @@ function SetUpListeners(props: {
     move() {
       setMapMoving(true);
     },
-    moveend(e) {
+    moveend() {
       setMapMoving(false);
     },
     zoomend() {

@@ -1,11 +1,5 @@
-// import "leaflet/dist/leaflet.css";
-
 import TreeMap from "../components/treeMap/TreeMap";
 
 export default function TreeMapPage() {
-  return (
-    <main>
-      <TreeMap />
-    </main>
-  );
+  return <main>{<TreeMap />}</main>;
 }

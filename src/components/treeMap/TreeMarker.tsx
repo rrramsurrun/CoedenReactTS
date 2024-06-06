@@ -1,5 +1,4 @@
-import { useEffect, useState } from "react";
-import { CircleMarker, useMapEvents } from "react-leaflet";
+import { CircleMarker } from "react-leaflet";
 import { Tree, updateCurrentTree } from "../../features/trees/treeSlice";
 import { useAppDispatch } from "../../redux/hooks";
 

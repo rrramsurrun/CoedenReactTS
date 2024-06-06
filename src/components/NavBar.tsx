@@ -1,12 +1,12 @@
 import { NavLink } from "react-router-dom";
 import styles from "./NavBar.module.css";
-import treeLogo from "../assets/treeImage.png";
 
 export default function NavBar() {
+  const treeLogo = import.meta.env.PROD ? "treeImage.png" : "/treeImage.png";
   return (
     <nav className={styles.nav}>
       <ul>
-        <a href="/">
+        <a href="/treeImage.png">
           <img src={treeLogo} className={styles.logo} />{" "}
         </a>
       </ul>

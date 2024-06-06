@@ -11,8 +11,8 @@ import TreeMapPage from "./pages/TreeMapPage";
 const router = createBrowserRouter(
   createRoutesFromElements(
     <Route element={<AppLayout />}>
-      <Route path="/" element={<Navigate to="/map" replace />} />
-      <Route path="/map" element={<TreeMapPage />} />
+      <Route path="/" element={<TreeMapPage />} />
+      <Route path="/map" element={<Navigate to="/" replace />} />
     </Route>
   )
 );

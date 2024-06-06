@@ -3,12 +3,16 @@ import { createControlComponent } from "@react-leaflet/core";
 
 const node = DomUtil.create("button");
 
+const locatorIcon = import.meta.env.PROD
+  ? "current-location-icon.png"
+  : "/current-location-icon.png";
+
 const LocatorButtonTemplate = Control.extend({
   options: {
     position: "topleft",
   },
   onAdd: function (map: Map) {
-    node.innerHTML = `<img src="/current-location-icon.png" class="smallIcon"/>`;
+    node.innerHTML = `<img src="${locatorIcon}" class="smallIcon"/>`;
     node.onclick = () => {
       map.locate();
     };
