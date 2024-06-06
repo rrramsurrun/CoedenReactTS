@@ -4,8 +4,11 @@ export async function getSampleTrees(
   mapDetails: MapDetails
 ): Promise<MapAndTreesResponse> {
   const { north, south, east, west } = mapDetails;
+  const baseURL = import.meta.env.PROD
+    ? "https://ramsurrun-portfolio.com"
+    : "https://localhost:8001";
   const treesDataResponse = await fetch(
-    `https://localhost:8001/trees?N=${north}8&S=${south}&E=${east}&W=${west}`
+    `${baseURL}/trees?N=${north}8&S=${south}&E=${east}&W=${west}`
   );
   return await treesDataResponse.json();
 }

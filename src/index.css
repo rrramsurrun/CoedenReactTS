@@ -62,6 +62,7 @@ button:focus-visible {
 .smallIcon {
   height: 1em;
   margin: 0 auto;
+  margin-top: 5px;
   padding: 0;
 }
 

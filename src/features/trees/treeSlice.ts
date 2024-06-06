@@ -3,11 +3,12 @@ import { RootState } from "../../redux/store";
 import { getSampleTrees } from "./treesAPI";
 
 export type Tree = {
-  id: number;
+  id: string;
   borough: string;
-  tree_name: string;
-  taxon_name: string;
-  common_name: string;
+  treeName: string;
+  taxonName: string;
+  commonName: string;
+  genus: string;
   longitude: number;
   latitude: number;
 };
