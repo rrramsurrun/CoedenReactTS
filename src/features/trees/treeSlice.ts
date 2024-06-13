@@ -6,7 +6,7 @@ export type Tree = {
   id: string;
   borough: string;
   treeName: string;
-  taxonName: string;
+  taxon: string;
   commonName: string;
   genus: string;
   longitude: number;
@@ -43,9 +43,11 @@ export type TreeDetails = {
   species: Species | null;
 };
 
+export type requestStatus = "IDLE" | "FETCHING" | "FAILED" | "SUCCESS";
+
 export type TreeSliceState = {
   trees: Tree[];
-  requestStatus:
+  treesStatus:
     | "idle"
     | "Retrieving Trees"
     | "Failed to load Trees"
@@ -53,11 +55,7 @@ export type TreeSliceState = {
   error: string;
   mapDetails: MapDetails | undefined;
   currentTree: Tree | undefined;
-  treeDetailsRequest:
-    | "idle"
-    | "Retrieving tree details"
-    | "Failed to load tree details"
-    | "Retrieved";
+  treeDetailsStatus: requestStatus;
   treeDetails: TreeDetails | undefined;
   genera: { [genusName: string]: Genus | null };
   species: { [speciesName: string]: Species | null };
@@ -65,11 +63,11 @@ export type TreeSliceState = {
 
 const initialState: TreeSliceState = {
   trees: [],
-  requestStatus: "idle",
+  treesStatus: "idle",
   error: "",
   mapDetails: undefined,
   currentTree: undefined,
-  treeDetailsRequest: "idle",
+  treeDetailsStatus: "IDLE",
   treeDetails: undefined,
   genera: {},
   species: {},
@@ -120,15 +118,15 @@ export const treeSlice = createAppSlice({
       },
       {
         pending: (state) => {
-          state.requestStatus = "Retrieving Trees";
+          state.treesStatus = "Retrieving Trees";
         },
         fulfilled: (state, action) => {
-          state.requestStatus = "Trees Loaded";
+          state.treesStatus = "Trees Loaded";
           state.trees = action.payload.trees;
           state.mapDetails = action.payload.mapDetails;
         },
         rejected: (state) => {
-          state.requestStatus = "Failed to load Trees";
+          state.treesStatus = "Failed to load Trees";
         },
       }
     ),
@@ -142,33 +140,33 @@ export const treeSlice = createAppSlice({
         if (
           //check cache
           tree.genus in state.tree.genera &&
-          tree.taxonName in state.tree.species
+          tree.taxon in state.tree.species
         ) {
           treeDetails = {
             genus: state.tree.genera[tree.genus],
-            species: state.tree.species[tree.taxonName],
+            species: state.tree.species[tree.taxon],
           };
         } else {
           //request information
-          treeDetails = await getTreeDetails(tree.genus, tree.taxonName);
+          treeDetails = await getTreeDetails(tree.genus, tree.taxon);
         }
         return { treeDetails, tree };
       },
       {
         pending: (state) => {
-          state.treeDetailsRequest = "Retrieving tree details";
+          state.treeDetailsStatus = "FETCHING";
         },
         fulfilled: (state, action) => {
-          state.treeDetailsRequest = "Retrieved";
+          state.treeDetailsStatus = "SUCCESS";
           state.treeDetails = action.payload.treeDetails;
           //Store genus and species in dictionary
           state.genera[action.payload.tree.genus] =
             action.payload.treeDetails.genus;
-          state.species[action.payload.tree.taxonName] =
+          state.species[action.payload.tree.taxon] =
             action.payload.treeDetails.species;
         },
         rejected: (state) => {
-          state.treeDetailsRequest = "Failed to load tree details";
+          state.treeDetailsStatus = "FAILED";
         },
       }
     ),
@@ -176,9 +174,10 @@ export const treeSlice = createAppSlice({
   selectors: {
     selectMapDetails: (state) => state.mapDetails,
     selectTrees: (state) => state.trees,
-    selectStatus: (state) => state.requestStatus,
+    selectStatus: (state) => state.treesStatus,
     selectCurrentTree: (state) => state.currentTree,
     selectTreeDetails: (state) => state.treeDetails,
+    selectTreeDetailsStatus: (state) => state.treeDetailsStatus,
   },
 });
 
@@ -191,4 +190,5 @@ export const {
   selectStatus,
   selectCurrentTree,
   selectTreeDetails,
+  selectTreeDetailsStatus,
 } = treeSlice.selectors;

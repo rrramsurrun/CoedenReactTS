@@ -1,0 +1,9 @@
+.tabs {
+  width: 90%;
+  margin: 0 auto;
+}
+.activeTab {
+  border-style: solid;
+  background-color: green;
+  color: white;
+}
