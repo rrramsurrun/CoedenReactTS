@@ -13,6 +13,7 @@ const router = createBrowserRouter(
     <Route element={<AppLayout />}>
       <Route path="/" element={<TreeMapPage />} />
       <Route path="/map" element={<Navigate to="/" replace />} />
+      <Route path="*" element={<TreeMapPage />} />
     </Route>
   )
 );
