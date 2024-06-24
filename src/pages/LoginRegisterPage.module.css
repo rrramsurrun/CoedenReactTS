@@ -1,0 +1,46 @@
+.loginForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3em;
+}
+
+.loginForm > div {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.loginFormSide {
+  flex: 1;
+}
+
+.field {
+  margin-bottom: 0.5em;
+}
+
+.label {
+  box-sizing: border-box;
+  display: inline-block;
+  min-width: 5em;
+  text-align: right;
+  margin-right: 0.5em;
+}
+.redirectLink {
+  margin-top: 1em;
+}
+
+.accountBenefits {
+  width: 80%;
+  background-color: bisque;
+  border-radius: 1em;
+}
+
+@media only screen and (min-width: 700px) {
+  .loginForm {
+    width: 95%;
+    margin: 1em auto;
+    flex-direction: row;
+    gap: 1.5em;
+  }
+}
