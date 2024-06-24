@@ -12,7 +12,7 @@ const LocatorButtonTemplate = Control.extend({
     position: "topleft",
   },
   onAdd: function (map: Map) {
-    node.innerHTML = `<img src="${locatorIcon}" class="smallIcon"/>`;
+    node.innerHTML = `<img src="${locatorIcon}" class="locationIcon"/>`;
     node.onclick = () => {
       map.locate();
     };

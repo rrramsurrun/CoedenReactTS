@@ -1,51 +1,66 @@
 .nav {
   width: 90%;
-  top: 0;
-  margin: 0 auto;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  top: 0;
+  margin: 0 auto;
+  height: 3.5em;
 }
-.nav ul {
-  display: flex;
-  margin: 0;
-}
-
-.nav ul li {
-  display: flex;
+.leftNav {
   flex: 1;
-  min-width: 6em;
-  border-style: solid;
-  border-radius: 2px;
-  border-color: black;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.treeLogoContainer {
+  margin-right: 0.5em;
 }
 
-.nav a {
+.treeLogo {
+  height: 3em;
+  padding-top: 0.2em;
+}
+.loginLinkContainer {
+  margin-top: 0.8em;
+  padding: 0.2em;
+  background-color: #b9f2ff;
+  border-radius: 0.5em;
+}
+.loginLink {
   text-decoration: none;
   color: black;
-  width: 100%;
-  text-align: center;
-  font-weight: 600;
-  height: 2em;
-  padding: 0.5em 0.5em;
-  font-size: 1em;
+}
+.rightNav {
+  flex: 2;
+  display: flex;
+  justify-content: end;
+}
+.rightNav ul {
+  display: flex;
+  align-items: center;
+  margin: 0;
+  height: 100%;
 }
 
-@media only screen and (min-width: 700px) {
-  .nav {
-    width: 90%;
-  }
-  .nav a {
-    height: 2em;
-    padding: 0.5em 0.5em;
-    font-size: 1.5em;
-  }
+.rightNav ul li {
+  display: flex;
+  align-items: center;
+  flex: 1;
+  height: 100%;
+  margin-top: 0.8em;
 }
-
-.nav a:global(.active) {
+.rightNav a:global(.active) {
   background-color: #b9f2ff;
 }
-
-.logo {
-  height: 3em;
+.rightNav a {
+  margin: 0 0.5em;
+  font-size: larger;
+  text-align: center;
 }
+/* @media only screen and (min-width: 700px) {
+  .nav {
+  }
+  .nav a {
+  }
+} */
