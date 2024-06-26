@@ -26,6 +26,10 @@
   text-align: right;
   margin-right: 0.5em;
 }
+.error {
+  color: red;
+  font-size: smaller;
+}
 .redirectLink {
   margin-top: 1em;
 }

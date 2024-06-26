@@ -8,6 +8,9 @@ import {
 import AppLayout from "./pages/AppLayout";
 import TreeMapPage from "./pages/TreeMapPage";
 import LoginRegisterPage from "./pages/LoginRegisterPage";
+import { useEffect } from "react";
+import { useAppDispatch } from "./redux/hooks";
+import { loginWithToken } from "./features/users/userSlice";
 
 const router = createBrowserRouter(
   createRoutesFromElements(
@@ -22,5 +25,14 @@ const router = createBrowserRouter(
 );
 
 export default function App() {
+  const dispatch = useAppDispatch();
+  //Check if JWT token in local storage
+  useEffect(() => {
+    const currentToken = localStorage.getItem("CoedenToken");
+    if (currentToken !== null) {
+      dispatch(loginWithToken(currentToken));
+    }
+  }, []);
+
   return <RouterProvider router={router} />;
 }

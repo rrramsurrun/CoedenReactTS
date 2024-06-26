@@ -31,6 +31,12 @@
   text-decoration: none;
   color: black;
 }
+.logoutLink {
+  text-decoration: none;
+  color: black;
+  font-size: smaller;
+  cursor: pointer;
+}
 .rightNav {
   flex: 2;
   display: flex;
